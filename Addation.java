@@ -1,3 +1,9 @@
 additon of the two numbers
-enter a number : a
+
+a=5;
+b=1;
+c=a+b;
+the addation of two numbers is = 6
+
+
 
